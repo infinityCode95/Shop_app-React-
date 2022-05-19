@@ -1,0 +1,48 @@
+.header__wrapper {
+     position: fixed;
+     top: 0;
+     width: 100%;
+     padding: 10px;
+     background-color: black;
+     z-index: 10;
+     
+}
+
+.header__container {
+     max-width: 1300px;
+     margin: 0 auto;
+}
+
+.header__flex {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+
+.header__logo {
+     cursor: pointer;
+     color: white;  
+}
+
+.header__title {
+     margin: 0px 0px 0px 150px;
+     font-weight: 600;
+     font-size: 25px;
+     color: white;
+}
+
+.header__menu {
+
+}
+
+.menu__items {
+     display: flex;
+     align-items: center;
+     gap: 0px 30px;
+}
+
+.menu__item {
+     cursor: pointer;
+     color: white;
+     list-style-type: none;
+}

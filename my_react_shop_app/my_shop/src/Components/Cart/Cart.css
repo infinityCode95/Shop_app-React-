@@ -1,0 +1,15 @@
+.cart {
+     position: fixed;
+     right: 5%;
+     top: 18%;
+     background-color: black;
+     color: white;
+     padding: 15px;
+     border-radius: 50%; 
+     cursor: pointer;    
+}
+
+.cart__items {
+     font-weight: 600;
+     font-size: 10px;
+}

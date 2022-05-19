@@ -1,0 +1,20 @@
+.footer__wrapper {
+     background-color: black;
+     padding: 15px 10px;
+}
+
+.footer__container {
+     max-width: 1450px;
+     margin: 0 auto;
+}
+
+.footer__flex {
+     display: flex;
+     justify-content: center;
+}
+
+.footer__title {
+     font-weight: 600;
+     color: white;
+     font-size: 25px;
+}
